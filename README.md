@@ -10,7 +10,7 @@ This repository contains all the example code for the Crazy Data Science - Metal
   - Model
   - Raw
     - tmp
-  - Spectrogram
+  - Spectrograms
     - Slices
 	    - Test
 		- Train
