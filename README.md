@@ -1,6 +1,6 @@
 # Metal-o-meter
 This repository contains all the example code for the Crazy Data Science - Metal-o-meter project.
-(https://youtu.be/A3TYuk5Xk7w)
+()
 
 
 ## Reproducing the examples from the start
