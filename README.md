@@ -6,6 +6,18 @@ This repository contains all the example code for the Crazy Data Science - Metal
 ## Reproducing the examples from the start
 
 - Download SoX for your operating system
+- Create the following folder structure:
+  - Model
+  - Raw
+    - tmp
+  - Spectrogram
+    - Slices
+	    - Test
+		- Train
+		   - 01_Non_metal
+		   - 02_Metal
+  - tflogs
+  
 - Place MP3 files in the Raw folder, make sure they are labeled correctly (Non-metal or Metal)
 - Run the GetMP3MetaData.ps1 script, make sure paths are configured correctly before executing the code
 - If all is well, spectrogram slices should be created in the Spectrogram\Slices directory
